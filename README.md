@@ -1,1 +1,1 @@
-I'm sorty, this repo is not maintained. If you want to use Freshchat in React Native, you might try https://www.npmjs.com/package/react-native-freshchat-sdk instead
+I'm sorry, this repo is not maintained. If you want to use Freshchat in React Native, you might try https://www.npmjs.com/package/react-native-freshchat-sdk instead
